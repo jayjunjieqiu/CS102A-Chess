@@ -2,7 +2,7 @@
 
 <img src="fig/headline.png" alt="alt text" style="zoom: 67%;" />
 
-Honorly developed by Junjie Qiu (Haro) and Ruiyang Wu in CS102A at SUSTech in 2022. The project is selected as the excellent project to present in class (top 10\%). 
+Honorly developed by Junjie Qiu and Ruiyang Wu in CS102A at SUSTech in 2022. The project is selected as the excellent project to present in class (top 10\%). 
 
 ## Features
 
